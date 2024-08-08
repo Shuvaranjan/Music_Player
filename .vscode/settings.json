@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\All jar files\\Music\\jaudiotagger-3.0.1.jar",
+        "d:\\All jar files\\Music\\jlayer-1.0.1.jar",
+        "d:\\All jar files\\Music\\mp3agic-0.9.0.jar"
+    ]
+}
